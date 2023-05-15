@@ -70,6 +70,7 @@ header {
     aspect-ratio: 3/1;
     background: none;
     color: white;
+    border: 1px solid white;
     width: 190px;
 }
 
